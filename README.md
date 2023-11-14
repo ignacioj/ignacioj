@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioj&&hide=cmake&langs_count=4&line_height=35&theme=dark&background=000000" />
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ignacioj&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ignacioj&theme=dark)](https://git.io/streak-stats)
 
