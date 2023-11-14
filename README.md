@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :fire: My Stats :
+### &#x1F60E; My Stats :
 
 <p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ignacioj&theme=dark" />
