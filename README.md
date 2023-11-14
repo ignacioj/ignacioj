@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### &#x1F60E; My Stats :
-
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ignacioj&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacioj&show_icons=true&line_height=33&count_private=true&theme=dark&background=000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioj&&hide=cmake&langs_count=4&line_height=35&theme=dark&background=000000" />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ignacioj&show_icons=true&line_height=33&count_private=true&theme=dark&background=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ignacioj&theme=dark&background=000000)](https://git.io/streak-stats)
 
