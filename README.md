@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ignacioj/ignacioj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :fire: My Stats :
+
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ignacioj&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioj&&hide=cmake&langs_count=4&line_height=35&theme=dark&background=000000" />
+</p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ignacioj&show_icons=true&line_height=33&count_private=true&theme=dark&background=000000)
+
